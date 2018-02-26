@@ -1,38 +1,32 @@
-# Βιογραφικό Σημείωμα
 
-## Προσωπικές Πληροφορίες
+## Βιογραφικό Σημείωμα
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Προσωπικές Πληροφορίες
 
-```markdown
-Syntax highlighted code block
+- Ονοματεπώνυμο: Σπύρος Βέργης
+- Έτος Γέννησης: 11 Ιουνίου 1997
+- Τόπος Καταγωγής: Κέρκυρα-Ελλάδα
+- Φύλο: Άνδρας
+- Όνομα Πατρός: Νικόλαος
+- Όνομα Μητρός: Θεοδώρα
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Εκπαιδευτική Πορεία 
 
-**Bold** and _Italic_ and `Code` text
+- Προπτυχιακός Φοιτητής Ιονιού Πανεπιστημίου του Τμήματος Πληροφορικής
+- Πτυχιούχος αγγλικού διπλώματος Michigan επιπέδου Proficiency
+- Πτυχιούχος γερμανικού διπλώματος Goethe B1 και κρατικού διπλώματος Β2
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Επαγγελματική πορεία-Εμπειρία
+- Παρακολούθηση σεμιναρίων στο συνέδρειο Genedis
+- Παρακολούθηση σεμιναρίων πάνω στην ιατρική και την πληροφορική
+- Προγραμματιστική Εμπειρία πάνω σε γλώσσες όπως C,C++,java,Python,Matlab
+- Προγραμματιστική Εμπειρία πάνω στις Βάσεις Δεδομένων σε Oracle SQL και MySQL 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Spirosvw/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
